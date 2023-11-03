@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "oop-access-levels.App", "oop-access-levels.App\oop-access-levels.App.csproj", "{1D99E170-A8EE-49BB-B8E0-8803CBE9B0E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "oop-access-levels.Library", "oop-access-levels.Library\oop-access-levels.Library.csproj", "{EF04B745-CA99-4EF2-B230-6A6BD5423455}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D99E170-A8EE-49BB-B8E0-8803CBE9B0E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D99E170-A8EE-49BB-B8E0-8803CBE9B0E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D99E170-A8EE-49BB-B8E0-8803CBE9B0E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D99E170-A8EE-49BB-B8E0-8803CBE9B0E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF04B745-CA99-4EF2-B230-6A6BD5423455}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF04B745-CA99-4EF2-B230-6A6BD5423455}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF04B745-CA99-4EF2-B230-6A6BD5423455}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF04B745-CA99-4EF2-B230-6A6BD5423455}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4BD7BD9-FA12-48BE-9BE2-1DD83563476B}
+	EndGlobalSection
+EndGlobal
